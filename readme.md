@@ -30,7 +30,7 @@
 ## 📁 Folder Structure
 
 ```
-won-the-day/
+own-the-day/
 ├── assets/
 │   ├── banner/             # Banner images or hero section
 │   ├── icons/              # Icon assets
